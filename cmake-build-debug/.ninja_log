@@ -1,0 +1,10 @@
+# ninja log v5
+1	216	7504451768745274	CMakeFiles/untitled.dir/library.cpp.obj	af80a34816174321
+217	489	7504451771398055	libuntitled.dll	bbacaee3c62d9550
+217	489	7504451771398055	libuntitled.dll.a	bbacaee3c62d9550
+2	117	7504454302652073	CMakeFiles/untitled.dir/library.cpp.obj	af80a34816174321
+118	269	7504454304154263	libuntitled.dll	bbacaee3c62d9550
+118	269	7504454304154263	libuntitled.dll.a	bbacaee3c62d9550
+3	339	7504456624372728	CMakeFiles/untitled.dir/library.cpp.obj	af80a34816174321
+341	455	7504456625462962	libuntitled.dll	bbacaee3c62d9550
+341	455	7504456625462962	libuntitled.dll.a	bbacaee3c62d9550
